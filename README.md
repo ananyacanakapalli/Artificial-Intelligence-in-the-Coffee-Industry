@@ -1,4 +1,4 @@
-# The-Age-of-Artificial-Intelligence-in-the-Coffee-Industry
+# Artificial-Intelligence-in-the-Coffee-Industry
 
 In this document, I explored the influence of Artificial Intelligence on the coffee industry. The document discusses the opportunities AI presents for creating personalized coffee experiences, optimizing supply chains, and fostering sustainability. It also acknowledges the challenges and ethical considerations that come with AI integration.
 
